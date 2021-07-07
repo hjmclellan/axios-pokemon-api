@@ -1,3 +1,7 @@
+Similar to the Pokemon API repository, but utilizes Axios.
+Updated this version to reflect Gen 8 pokemon, bringing the total from 807 to 898 pokemon
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
